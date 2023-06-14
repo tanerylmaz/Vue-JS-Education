@@ -1,0 +1,12 @@
+VUE CLI KURULUM
+
+1-npm install -g @vue/cli
+2-vue create my-project
+
+VERSİYON KONTROLÜ
+1-vue --version
+
+VUE CLI RUN 
+1-cd vue-cli (my-project)
+2-npm run serve
+
